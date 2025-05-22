@@ -36,13 +36,13 @@ export default function Home() {
               <div className="flex flex-col gap-4">
                 <p className="text-gray-600">
                   Im Rahmen dieses Projekts wurde die Business-Analyse für das
-                  Softwareprojekt "Frontpanel-Desginer" kritisch reflektiert und
-                  bewertet. Die Webanwendung ermöglicht es Nutzern, individuelle
-                  Frontpanels für elektronische Geräte zu gestalten und direkt
-                  zu bestellen. Ziel dieser Ausarbeitung ist es, den
-                  durchgeführten Business-Analyse-Prozess sowohl im Hinblick auf
-                  seine Stärken als auch auf mögliche Verbesserungspotenziale zu
-                  untersuchen.
+                  Softwareprojekt <i>Frontpanel-Desginer</i> kritisch
+                  reflektiert und bewertet. Die Webanwendung ermöglicht es
+                  Nutzern, individuelle Frontpanels für elektronische Geräte zu
+                  gestalten und direkt zu bestellen. Ziel dieser Ausarbeitung
+                  ist es, den durchgeführten Business-Analyse-Prozess sowohl im
+                  Hinblick auf seine Stärken als auch auf mögliche
+                  Verbesserungspotenziale zu untersuchen.
                 </p>
                 <p className="text-gray-600">
                   Dabei habe ich zentrale Elemente der Business-Analyse
@@ -101,9 +101,9 @@ export default function Home() {
                 definieren, welche Nutzenden angesprochen werden sollen und
                 welches konkrete Problem für sie gelöst wird. Vielleicht könnten
                 wir uns auch überlegen, eine strategische Einordnung
-                aufzunehmen, um das „Warum“ hinter dem Projekt noch besser
+                aufzunehmen, um das <i>Warum</i> hinter dem Projekt noch besser
                 nachvollziehen zu können. Bedeutet für mich in Form von einer
-                Zuordnung von dem "Value" der Software bzw. des
+                Zuordnung von dem <i>Value</i> der Software bzw. des
                 Softwareproduktes zu einer konkreten Zielgruppe.
               </p>
             </div>
@@ -147,12 +147,12 @@ export default function Home() {
                 nutzt und somit auch für die zu entwicklenden Anforderungen als
                 verlässlicher Ansprechpartner dienen kann. Gleichzeitig soll die
                 Software aber auch{" "}
-                <i>"von mehreren Anbietern genutzt werden [...].</i> Das
-                bedeutet aus meiner Sicht, neben den Kunden, die über die
-                Software die Panels designen sollen, mindestens noch eine
-                weitere Stakeholder Gruppe, die ich als noch nicht abgedeckt
-                sehe. Gleichzeitig kann man hier aber auch argumentieren, dass
-                Frank gewissermaßen auch die Rolle eines Anbieters einnimmt.
+                <i>von mehreren Anbietern genutzt werden [...].</i> Das bedeutet
+                aus meiner Sicht, neben den Kunden, die über die Software die
+                Panels designen sollen, mindestens noch eine weitere Stakeholder
+                Gruppe, die ich als noch nicht abgedeckt sehe. Gleichzeitig kann
+                man hier aber auch argumentieren, dass Frank gewissermaßen auch
+                die Rolle eines Anbieters einnimmt.
               </p>
             </div>
           </Card>
@@ -207,8 +207,8 @@ export default function Home() {
                 fernab der Business Logik. In diesem Fall also z.B die
                 Anforderungen, dass die Software verschiedene Rollen- und
                 Rechtekonfigurationen für verschiende Nutzergruppen benötigt.
-                Ich sehe in den Anforderungen immer das "Admin Backend", würde
-                es aber in einer seperaten Story nochmal mitaufnehmen.
+                Ich sehe in den Anforderungen immer das <i>Admin Backend</i>,
+                würde es aber in einer seperaten Story nochmal mitaufnehmen.
               </p>
             </div>
           </Card>
@@ -387,9 +387,9 @@ export default function Home() {
             <div className="relative bg-purple-50 border border-purple-200 rounded-2xl p-6 mt-4 mb-2 shadow-sm">
               <p className="text-gray-600 mb-3">
                 Alles in allem finde ich die Business Analyse schon gut gelungen
-                für ein aus meiner Sicht schon eher "nichiges" Softwareprodukt.
-                Ganz allgemein habe ich noch ein paar Ideen / Anmerkungen zum
-                Business Analyse Prozess im allgemeinen:
+                für ein aus meiner Sicht schon eher <i>nichiges</i>
+                Softwareprodukt. Ganz allgemein habe ich noch ein paar Ideen /
+                Anmerkungen zum Business Analyse Prozess im allgemeinen:
               </p>
               <p className="text-gray-600 mb-3">
                 <ul className="list-disc pl-5 space-y-2 text-gray-600 mt-4">

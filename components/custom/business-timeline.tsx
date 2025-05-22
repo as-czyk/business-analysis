@@ -1,5 +1,3 @@
-import { Card } from "@/components/ui/card";
-
 interface TimelineItemProps {
   emoji: string;
   title: string;
